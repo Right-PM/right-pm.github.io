@@ -10153,10 +10153,7 @@ header.masthead {
   height: 100vh;
   padding-bottom: 0;
 }
-.logo-wide { display: none; }
 @media (min-width: 992px) {
-  .logo-wide { display: inline; }
-  .logo-narrow { display: none; }
   header.masthead p {
     font-size: 1.15rem;
   }
