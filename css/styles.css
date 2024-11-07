@@ -10070,8 +10070,8 @@ svg.logo .p2 {
 .testimony-post { text-align: left; }
 
 svg.logo { height: 50px; }
-@media (max-width: 475px) {
-  .navbar-toggler { display: none; }
+@media (max-width: 370px) {
+  .logo-text { display: none; }
 }
 @media (min-width: 992px) {
   #mainNav {
